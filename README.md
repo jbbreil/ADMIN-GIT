@@ -74,7 +74,7 @@ git clone https://github.com/jbbreil/ADMIN-GIT.git
 
 2. gulp
 
-### 4. Manuelt webbplatsprojekts hemsida om gulp-filen inte öppnar det automatiskt.
+## OBS! Manuelt webbplatsprojekts hemsida om gulp-filen inte öppnar det automatiskt.
 
 
 http://localhost/ersätt_med_din_katalog_namn/pub/admin-login.php
