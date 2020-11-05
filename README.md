@@ -84,4 +84,4 @@ git clone https://github.com/jbbreil/ADMIN-GIT.git
 
 ## OBS! Manuelt webbplatsprojekts hemsida om gulp-filen inte öppnar det automatiskt.
 
-http://localhost/WEBSITE-GIT/pub/admin-login.php
+http://localhost/ADMIN-GIT/pub/admin-login.php
