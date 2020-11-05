@@ -11,6 +11,10 @@ gulp-fil, inloggningssidan, privatsidan och uppdateringssidor åt databastabelle
 
 ### 1.1 Sätt upp databasen via SQL-fråga:
 
+1.Skapa en ny databas kallad: bdtest.
+
+2.Skicka nedliggande SQL-fråga till databasen: 
+
 CREATE TABLE `courses` (
   `id` int(11) NOT NULL,
   `code` varchar(64) NOT NULL,
