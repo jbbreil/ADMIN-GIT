@@ -72,7 +72,7 @@ COMMIT;
    PAASWORD: password
    DATABASE: dbtest
 
-### 3. Klona projekt:
+### 3. Klona projekt i htdocs-mappen (C:->xampp->htdocs):
 
 git clone https://github.com/jbbreil/ADMIN-GIT.git
 
